@@ -3,6 +3,6 @@ document.addEventListener("DOMContentLoaded",()=>{
 		console.log("DOM load success");
 	setTimeout(() => {
         document.body.innerHTML = ""; 
-    }, 500);
+    }, 4000);
 });
 console.log("DOM load success");
